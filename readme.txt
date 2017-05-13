@@ -4,3 +4,5 @@ this is a <test> git test.
 20:07 -> add a line.
 <before add>
 <after add>
+<test before add>
+<test after add>
